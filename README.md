@@ -26,7 +26,7 @@ The collatz conjecture is a mathematical problem that can be summarized as follo
 
 ## Basic Function Breakdown:   
 `welcome()` - Displays a welcome message.    
-`collatzer` - Recursively calculates hailstone values until a value of 1 is found.   
-`outputHailstones` - Loops through all hailstone values and outputs them.   
-`viewStatistics` - Lets the user view some very basic statistics about the seed they entered.   
-`main` - The main function that calls the rest of these functions.   
+`collatzer()` - Recursively calculates hailstone values until a value of 1 is found.   
+`outputHailstones()` - Loops through all hailstone values and outputs them.   
+`viewStatistics()` - Lets the user view some very basic statistics about the seed they entered.   
+`main()` - The main function that calls the rest of these functions.   
