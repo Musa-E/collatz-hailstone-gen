@@ -19,8 +19,8 @@ The collatz conjecture is a mathematical problem that can be summarized as follo
 > If a number is `odd` , multiply by `3` and add `1`    
 > If a number is `even`, divide by `2`    
 
-  The conjecture asserts that all numbers end up in a `4-2-1` loop after some number of steps.  This is a rather gross over-simplification,   
-  but it should suffice for this simple program.  For more information, [this is a good video resource by Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg) .   
+  The conjecture asserts that all numbers end up in a `4-2-1` loop after some number of steps.  This is a rather gross over-simplification, 
+but it should suffice for this simple program.  For more information, [this is a good video resource by Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg) .   
 
 ----
 
